@@ -1,0 +1,11 @@
+.squad-list {
+    width: 60vw;
+    margin: 0 14rem;
+    display: grid;
+    grid-template-columns: 40% 40% 40%;
+    grid-gap: 15px;
+}
+
+img {
+    height: 25rem;
+}
