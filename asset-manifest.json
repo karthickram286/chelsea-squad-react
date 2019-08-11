@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chelsea-squad-react/static/css/main.19c39862.chunk.css",
+    "main.js": "/chelsea-squad-react/static/js/main.9c7182ff.chunk.js",
+    "main.js.map": "/chelsea-squad-react/static/js/main.9c7182ff.chunk.js.map",
+    "runtime~main.js": "/chelsea-squad-react/static/js/runtime~main.1b5dc65b.js",
+    "runtime~main.js.map": "/chelsea-squad-react/static/js/runtime~main.1b5dc65b.js.map",
+    "static/js/2.86cc1835.chunk.js": "/chelsea-squad-react/static/js/2.86cc1835.chunk.js",
+    "static/js/2.86cc1835.chunk.js.map": "/chelsea-squad-react/static/js/2.86cc1835.chunk.js.map",
+    "index.html": "/chelsea-squad-react/index.html",
+    "precache-manifest.7463eec92f3d527c63f73395fe30bca5.js": "/chelsea-squad-react/precache-manifest.7463eec92f3d527c63f73395fe30bca5.js",
+    "service-worker.js": "/chelsea-squad-react/service-worker.js",
+    "static/css/main.19c39862.chunk.css.map": "/chelsea-squad-react/static/css/main.19c39862.chunk.css.map"
+  }
+}
